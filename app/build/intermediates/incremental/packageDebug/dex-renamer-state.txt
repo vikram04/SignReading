@@ -1,0 +1,7 @@
+#Thu Jun 01 09:39:35 PDT 2017
+base.0=C\:\\Users\\Vikram\\Desktop\\Sign reading\\SignReading\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1cfe8fe6f3cdb2cd2247b2880607a26a41dc4a24
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Vikram\\Desktop\\Sign reading\\SignReading\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eeb5b571a7ff75fc4c1d86e3c795a69f48b8af5d\\classes.dex
+base.1=C\:\\Users\\Vikram\\Desktop\\Sign reading\\SignReading\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eeb5b571a7ff75fc4c1d86e3c795a69f48b8af5d
+file.0=C\:\\Users\\Vikram\\Desktop\\Sign reading\\SignReading\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1cfe8fe6f3cdb2cd2247b2880607a26a41dc4a24\\classes.dex

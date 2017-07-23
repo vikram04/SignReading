@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\libs\freetts-jsapi10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a54825e1e3fe8d1c3230be62b1e33aebcdc2b6ef">
+        <dex dex="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\build\intermediates\transforms\dex\debug\folders\1000\2\freetts-jsapi10_84cef91a11d7c2ece288089f8f0c5dd543858a19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1cfe8fe6f3cdb2cd2247b2880607a26a41dc4a24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\libs\jsapi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3ea722318f77c7ee715389317acb8b64bd0537a">
+        <dex dex="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsapi_5facc71c9a393f8dffb14c0785d55f7ff0529b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\libs\freetts.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="611806fe0de34695c3d381de6df1ab62e2ec5c2c">
+        <dex dex="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\build\intermediates\transforms\dex\debug\folders\1000\2\freetts_1219cd331d9bae7d23eea4f87f0ccf799d6b7c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\libs\cmu_us_kal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4729738629bc71f9cebae1c069d7c2ed68263a2e">
+        <dex dex="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\build\intermediates\transforms\dex\debug\folders\1000\2\cmu_us_kal_d50151a538be7c0f37528e2c7337f4a88e6d224b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="177c6f0488b31677d234c165e06c8a55c95f911a">
+        <dex dex="C:\Users\Vikram\Desktop\Sign reading\SignReading\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eeb5b571a7ff75fc4c1d86e3c795a69f48b8af5d\classes.dex" />
+    </item>
+
+</items>
